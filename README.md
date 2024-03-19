@@ -74,4 +74,3 @@ Here are some ideas to get you started:
 </div>
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=footer&text=&fontSize=0" width="100%"/>
