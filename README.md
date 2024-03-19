@@ -13,14 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DevThive GitHub&fontSize=0" width="100%"/>
 
-
-<details>
-<summary>About Me</summary>
-
-</summary>
-</details>
 
 ## 💻 DEV's log 💻
 
