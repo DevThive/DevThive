@@ -22,6 +22,23 @@ Here are some ideas to get you started:
 </summary>
 </details>
 
+## 💻 DEV's log 💻
+<div style="display:flex; flex-direction:row;">
+    <a href="https://velog.io/@bi-sz">
+        <img src="https://img.shields.io/badge/
+        Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
+    </a>
+    <a href="https://li-yo.tistory.com">
+        <img src="https://img.shields.io/badge/
+        Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
+  
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/
+ api?name=bi-sz)](https://github.com/bi-sz/velog-readme-stats)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/
+api?name=li-yo&theme=default)](https://li-yo.tistory.com/)
+</div><br>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevThive&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
